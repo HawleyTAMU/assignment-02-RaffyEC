@@ -1,0 +1,13 @@
+total 1192
+-rw-rw-r-- 1 rclark_co22 rclark_co22    2387 Sep 23 23:41 Command.cpp
+-rw-rw-r-- 1 rclark_co22 rclark_co22    1601 Sep 23 23:41 Command.h
+-rw-rw-r-- 1 rclark_co22 rclark_co22   35149 Sep 23 23:41 LICENSE
+-rw-rw-r-- 1 rclark_co22 rclark_co22   25321 Sep 30 17:45 README.md
+-rw-rw-r-- 1 rclark_co22 rclark_co22    2132 Sep 23 23:41 Tokenizer.cpp
+-rw-rw-r-- 1 rclark_co22 rclark_co22    1164 Sep 23 23:41 Tokenizer.h
+-rw-rw-r-- 1 rclark_co22 rclark_co22     518 Sep 23 23:41 makefile
+-rwxrwxr-x 1 rclark_co22 rclark_co22    5569 Sep 23 23:41 pa2-tests.sh
+-rwxrwxr-x 1 rclark_co22 rclark_co22 1107832 Oct  2 15:31 shell
+-rw-rw-r-- 1 rclark_co22 rclark_co22    8698 Oct  2 15:31 shell.cpp
+drwxrwxr-x 2 rclark_co22 rclark_co22    4096 Oct  1 16:39 test-files
+-rw-rw-r-- 1 rclark_co22 rclark_co22       0 Oct  2 15:32 tester.txt
